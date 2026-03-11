@@ -1,4 +1,5 @@
-a=20
-b=30
-c=(a+b)*2
+a=200
+b=102
+c=(a+b)*3
 print(c)
+print(a)
