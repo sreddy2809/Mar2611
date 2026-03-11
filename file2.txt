@@ -1,0 +1,4 @@
+This is Read My File
+Below is Emp data 
+101  sheshi aws     50k
+102  harsha python  30k
