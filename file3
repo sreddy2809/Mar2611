@@ -1,0 +1,4 @@
+I know linux
+ls -l
+pwd
+echo "Todays date is $(date)" 
