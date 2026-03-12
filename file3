@@ -1,4 +1,5 @@
-I know linux
+echo "I know linux"
 ls -l
 pwd
 echo "Todays date is $(date)" 
+Testing git Cmds
