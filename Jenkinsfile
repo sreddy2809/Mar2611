@@ -10,7 +10,7 @@ pipeline{
 		}
 		stage("Two"){
            when  { 
-		       expression { branch 'master' }
+		       branch 'master' 
 		   }
            steps{
 				echo "Stage two"
